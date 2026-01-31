@@ -10,7 +10,7 @@ No frameworks, no libraries, no build tools — just clean and beginner-friendly
 
 ## 📸 Screenshot
 
-![Resume Preview](./screenshot.png)
+![Resume Screenshot](./resume-screenshot.jpeg)
 
 The screenshot is included so anyone visiting the repository can quickly understand how the resume looks without opening the project.
 
