@@ -22,7 +22,7 @@ The screenshot is included so anyone visiting the repository can quickly underst
 html-resume/
 │
 ├── index.html        # Main resume HTML file
-├── screenshot.png    # Preview image of the resume
+├── resume-screenshot.jpeg    # Preview image of the resume
 └── README.md         # Project documentation
 ```
 
